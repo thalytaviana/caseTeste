@@ -1,4 +1,3 @@
----
 
 ## Teste: Coleta de dados da API
 
@@ -22,5 +21,3 @@ Os dados são atualizados conforme a rota e aparecem corretamente na página HTM
 
 **Pós-condição:**  
 Os dados coletados da API permanecem integrados ao repositório do projeto e disponíveis para exibição e manipulação nas páginas HTML conforme as rotas configuradas.
-
----
